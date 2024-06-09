@@ -1,0 +1,1 @@
+# GenerativeAI_AWS_Bedrock_lambda_APIGateway_s3_CloudWatch_Postman
