@@ -8,3 +8,7 @@
 ### 4. AWS S3 (storage service)
 ### 5. AWS CloudWatch (monitoring service for AWS rsources and Application)
 ### 6. Postman (API platform for building and using APIs)
+
+![image](https://github.com/Kamalesh9483/GenerativeAI_AWS_Bedrock_Llama2Chat13B_lambda_APIGateway_s3_CloudWatch_Postman/assets/80197808/ee36db51-0fab-43d1-a731-c39483cb8bdd)
+
+
