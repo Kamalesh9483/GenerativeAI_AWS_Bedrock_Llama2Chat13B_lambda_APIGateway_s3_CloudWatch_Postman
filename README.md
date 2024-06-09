@@ -2,7 +2,7 @@
 
 ### It's a project to use Generative AI - LLM model using AWS Bedrock
 ### Tools/ Services used for this Project are 
-### 1. AWS Bedrock (service that offers high-performing foundation models - LLM)
+### 1. AWS Bedrock - Llama 2 Chat 13B (service that offers high-performing foundation models - LLM)
 ### 2. AWS Lambda (serverless event-driven computing system)
 ### 3. AWS API Gateway (API service)
 ### 4. AWS S3 (storage service)
